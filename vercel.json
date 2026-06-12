@@ -1,5 +1,4 @@
 {
-  "buildCommand": "NEXT_PUBLIC_GAS_URL=\"https://script.google.com/macros/s/AKfycbyAt74oZjWQ3K4RuiZ7faNoaEHqsMmxavp1lMUy5HZ0TA7-LDdMvU21QQVZxhf-_fO1KA/exec\" npm run build",
-  "installCommand": "npm install",
-  "framework": null
+  "buildCommand": "NEXT_PUBLIC_GAS_URL=\"https://script.google.com/macros/s/AKfycbyAt74oZjWQ3K4RuiZ7faNoaEHqsMmxavp1lMUy5HZ0TA7-LDdMvU21QQVZxhf-_fO1KA/exec\" && npm run build",
+  "installCommand": "npm install"
 }
